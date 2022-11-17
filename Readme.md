@@ -17,7 +17,7 @@ touch .env
 DEBUG_MODE = TRUE # True for Depolyment False for Production
 SECRET_KEY = <your secret key> 
 ```
-for deployment server you can run project Like this 
+for Development server you can run project Like this 
 ```bash
 python manage.py runserver
 ```
